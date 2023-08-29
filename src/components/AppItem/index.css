@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.list-item {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.appitem-image {
+  width: 70px;
+}
